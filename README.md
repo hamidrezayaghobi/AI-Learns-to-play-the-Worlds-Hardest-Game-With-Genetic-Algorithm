@@ -1,6 +1,6 @@
 # Playing World Hardest Game Using Genetic Algorithm
 
-## Summery
+## Summary
 In this project, we impliment genetic algorithm which can learn to play [World Hardest Game](https://www.crazygames.nl/spel/worlds-hardest-game)
 
 ## How to Run:
